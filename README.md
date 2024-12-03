@@ -1,6 +1,8 @@
 # Dell-Latitude-7410-OC-Hackintosh
 OpenCore based EFI for Dell Latitude 7410
 
+![Dell-Latitude-7410-Hackintosh](https://github.com/user-attachments/assets/e016d9fa-944b-46a4-8040-290f9689befb)
+
 I am currently using macOS Ventura 13.7.1 and I wouldn't recommend updating to Sonoma because of the issues with the iServices due to Wifi kext so wait until it's fixed. 
 
 ## System Configuration
