@@ -15,7 +15,7 @@ I am currently using macOS Ventura 13.7.1 and I wouldn't recommend updating to S
 
 ### BIOS Version
 
-1.28.0
+1.30.0
 
 
 ### Bootloader
