@@ -1,7 +1,7 @@
 # Dell-Latitude-7410-OC-Hackintosh
 OpenCore based EFI for Dell Latitude 7410
 
-I am currently using macOS Ventura 13.7.1
+I am currently using macOS Ventura 13.7.1 and I wouldn't recommend updating to Sonoma because of the issues with the iServices due to Wifi kext so wait until it's fixed. 
 
 ## System Configuration
 
@@ -91,6 +91,7 @@ j215
 
 ## Additional Notes
 
+Use one-key-hidpi to fix display scaling [https://github.com/xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi) <br>
 Don't forget to generate your own SMBIOS before installing macOS [https://github.com/corpnewt/GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 
 
 - ENJOY!
