@@ -1,4 +1,4 @@
-# Dell-Latitude-7410-OC-Hackintosh
+# Dell-Latitude-7410-Hackintosh-OC
 OpenCore based EFI for Dell Latitude 7410
 
 ![Dell-Latitude-7410-Hackintosh](https://github.com/user-attachments/assets/e016d9fa-944b-46a4-8040-290f9689befb)
